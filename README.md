@@ -1,4 +1,3 @@
 # Breakout game
 
-Demo:
-https://breakoutgamewithcnvas.vercel.app/
+Demo: https://breakoutgamewithcnvas.vercel.app/
